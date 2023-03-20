@@ -4,7 +4,7 @@ pickleshare==0.7.5
 pandas==1.3.3
 seaborn==0.11.1
 wordcloud==1.8.1
-scikit-learn==0.23.1
+scikit-learn==0.24
 h5py==2.10.0
 matplotlib==3.4.3
 joblib==1.0.1
