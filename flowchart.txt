@@ -1,0 +1,41 @@
+importing the packages
+exploring the dataset
+data processing
+visualization using seaborn & matplotlib
+Data Cleaning
+Tokenization based on Bert for TL and Keras for Deep Learning
+Splitting the data to train and test
+building the model
+
+Deep Learning
+    - GCN with BERT
+    - LSTM
+    - GRU
+    - RNN
+    - CNN
+    - Ensemble Method LSTM + GCN with BERT
+
+Machine Learning
+    - Logistic Regression
+    - Random Forest
+    - KNN
+    - Decision Tree
+    - Support Vector Machine
+    - Voting Classifier
+    
+training the model
+building the model with LSTM gives better accuracy comparing with Other Models
+Flask Framework with Sqlite for signup and signin
+importing the packages
+exploring the dataset (english text for analysis)
+data processing
+User gives input as text 
+the given input is preprocessed for prediction
+trained model is used for prediction
+final outcome is displayed through frontend
+
+Note:
+
+Extension - GCN + LSTM with Ensemble model is used with proposed one 
+from which LSTM gives better accuracy and from that LSTM is used to build the ,
+model and save it from user prediction
